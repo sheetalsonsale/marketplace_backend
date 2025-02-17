@@ -31,14 +31,9 @@ static
 package/
 assets/
 
-# Backup files #
-*.bak
 
 
 
-# Python #
-*.py[cod]
-*$py.class
 
 # Distribution / packaging
 .Python build/
